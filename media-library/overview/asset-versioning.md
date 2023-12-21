@@ -28,7 +28,7 @@ Go to your [media library](https://imagekit.io/dashboard/media-library) in Image
 
 Check out the video below to learn how to include file versions in search results.
 
-{% embed url="https://www.youtube.com/watch?v=qjDKpSYCW7U" %}
+{% embed url="[https://www.youtube.com/watch?v=qjDKpSYCW7U](https://www.youtube.com/watch?v=WyOWZ50p-Vc&list=PLHMsBwDlzJRy9Y3xPpHZWjx_aRW5IOQQd&index=10&t=2s)" %}
 
 {% hint style="info" %}
 **Viewing versions**\
